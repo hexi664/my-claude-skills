@@ -1,0 +1,6 @@
+# 忽略所有符号链接（系统预装 skill）
+lark-*
+media-downloader
+remotion-best-practices
+vercel-react-best-practices
+web-design-guidelines
